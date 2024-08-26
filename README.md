@@ -1,4 +1,4 @@
-# Environmental-awareness-web 
+# Environmental-awareness-app
 HackCSB 24 
 ### Backend (Flask)
 
